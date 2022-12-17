@@ -58,6 +58,16 @@
       flex-direction: column;
       height: 100%;
     }
+    ::-webkit-scrollbar
+    {
+        width: 6px;
+    }
+    ::-webkit-scrollbar-thumb
+    {
+        background-color: #56593D;
+        border-radius: 8px;
+
+    }
     .container
     {
         width: 100%;
